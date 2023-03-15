@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="Login_UserName_RU">Имя пользователя</string>
+    <string name="Login_Password_RU">Пароль</string>
+    <string name="Login_UserName_Hint_RU">Введите имя пользователя</string>
+    <string name="Login_Password_Hint_RU">Введите пароль</string>
+    <string name="Login_AppBar_Title_RU">Войти в систему</string>
+    <string name="Login_Btn_RU">Войти</string>
+</resources>

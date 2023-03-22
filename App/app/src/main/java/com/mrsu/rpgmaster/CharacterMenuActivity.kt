@@ -9,6 +9,10 @@ class CharacterMenuActivity: AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.session_menu_layout)
+
         setSupportActionBar(findViewById(R.id.main_toolbar))
+
+        //TODO: Add characters list with DB storage
+        //TODO: Add character info/management activity
     }
 }

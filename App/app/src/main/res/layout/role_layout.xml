@@ -41,7 +41,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/session_button"
         android:layout_width="200sp"
         android:layout_height="wrap_content"
         android:layout_marginTop="160dp"
@@ -54,7 +54,7 @@
         app:layout_constraintTop_toBottomOf="@+id/username_textView" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/character_button"
         android:layout_width="200sp"
         android:layout_height="wrap_content"
         android:layout_marginTop="70dp"
@@ -65,7 +65,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button" />
+        app:layout_constraintTop_toBottomOf="@+id/session_button" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

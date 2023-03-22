@@ -9,6 +9,10 @@ class SessionMenuActivity: AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.session_menu_layout)
+
         setSupportActionBar(findViewById(R.id.main_toolbar))
+
+        //TODO: Add sessions list with DB storage
+        //TODO: Add session info/management activity
     }
 }
